@@ -1,0 +1,19 @@
+label {
+    font-weight: bold;
+    padding-right:15px;
+}
+input {
+    margin-bottom: 10px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+.container {
+    margin-top: 8%;
+}
+form {
+    padding-left: 20%;
+    padding-right: 20%;
+}

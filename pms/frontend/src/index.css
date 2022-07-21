@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+body{
+    background-image: url('https://img.freepik.com/free-photo/coin-wooden-table_1150-17732.jpg?size=626&ext=jpg&ga=GA1.2.1082267168.1656670647');
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+}   
+.container{
+    height: 100%;
+    align-content: center;
+}
+input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+}
+    
+.card{
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 480px;
+    background-color: rgba(0,0,0,0.7) !important;
+}
+
+.card-header{
+    background-color:rgba(0, 145, 7, 0.766);
+    color: white;
+}
+
+.btn{
+    background-color:rgba(0, 145, 7, 0.766);
+    font-weight: bold;
+}
+.btn:hover {
+    background-color: white;
+    color:rgba(2, 2, 2, 0.766);
+}
+
+label{
+    color: rgb(255, 255, 255);
+}
+.form-group p{
+    width: 300px;
+    color: black;
+
+}

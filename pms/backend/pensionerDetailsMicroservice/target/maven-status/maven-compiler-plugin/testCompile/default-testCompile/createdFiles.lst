@@ -1,0 +1,3 @@
+com\pensionerDetailsMicroservice\PensionerDetailsMicroserviceApplicationTests.class
+com\pensionerDetails\Service\PensionDetailServiceTest.class
+com\pensionerDetailsMicroservice\Controller\PensionDetailsControllerTest.class
